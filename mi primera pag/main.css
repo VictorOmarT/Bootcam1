@@ -1,9 +1,15 @@
+head{
+    
+}
+
 body {
-    color: crimson;        /* Dark dray*/
-    background-color: #EEEEEE; /*LIGHT GRAY*/
+    color: black;        /* Dark dray*/
+    background-color: gray; /*LIGHT GRAY*/
 }
 h1{
     font-size: 36x;
+}
+p1{
 }
 
 h1,h2,h3,h4,h5,h6{
